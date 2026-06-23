@@ -1,0 +1,35 @@
+.contact-link{
+    color: #434455 ;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: #404BBF;
+}
+.nav-link{
+    color: #2E2F42;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+.nav-link:hover{
+color: #404BBF;
+}
+.nav-link:active{
+    color: #404BBF;
+    text-decoration: underline #404BBF ;
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #2e2f42;
+}
+
+.logo span {
+    color: #4d5ae5;
+}

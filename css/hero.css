@@ -5,14 +5,18 @@
    color: #FFFFFF; 
    font-weight: 700;
    font-size: 56px;
-   line-height: 60px;
+   line-height: 1.07;
    text-align: center;
    font-weight: 700;
-   font-style: bold;
+   letter-spacing: 0.04em;
 }
 .hero-btn{
     background-color:#4D5AE5;
     color: #FFFFFF;
     cursor: pointer;
     font-weight: 500;
+}
+.hero-btn:hover,
+.hero-btn:focus{
+    background-color: #404bbf;
 }

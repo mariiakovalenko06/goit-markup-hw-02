@@ -1,4 +1,4 @@
-.team-section {
+.team{
     background-color: #f4f4fd;
 }
 
@@ -7,7 +7,8 @@
     color: #2e2f42;
     text-align: center;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
 }
 
 .team-card {
@@ -19,9 +20,13 @@
     font-size: 20px;
     color: #2e2f42;
     text-align: center;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
 }
 
 .team-role {
     text-align: center;
     color: #434455;
+    letter-spacing: 0.02em;
+        line-height: 1.5;
 }
